@@ -42,7 +42,7 @@ ReactDOM.render(
  <AnchorLink offset='100' href='#things'>Stuff</AnchorLink>
 ```
 
-4. In case of a anything other than a text node as the child element.
+4. In case of anything other than a text node as the child element.
 
 ```js
  <AnchorLink href=''>
